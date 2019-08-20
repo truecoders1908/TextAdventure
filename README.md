@@ -2,6 +2,7 @@
 A small project that takes the user through a text adventure
 
 Basic Instructions
+
 Clone this repository to your machine
 Create and checkout a new branch to work on this project
 Create a new C# console application
